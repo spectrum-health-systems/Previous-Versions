@@ -1,5 +1,14 @@
 # Abatab Previous Versions
 
+## Development/
+
+Previous Abatab development releases.
+
+## Community releases/
+
+Previous Abatab Community Releases.
+
+
 In order to keep the Abatab repositories clean, previous versions of Abatab development and Community Releases are stored here.
 
 This is the process to archive previous versions:
