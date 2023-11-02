@@ -4,11 +4,15 @@ In order to keep the Abatab-related repositories clean, previous versions are st
 
 ## Abatab/
 
-Abatab *development releases* are stored here.
+Abatab *development* releases are stored here.
 
 ## Community releases/
 
 Abatab *Community Releases* are stored here.
+
+## Abatab Lieutenant/
+
+Abatab Lieutenant releases are stored here.
 
 # Archival process
 
