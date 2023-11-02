@@ -25,6 +25,3 @@ This is the process to archive previous versions:
 4. Recompress as a .7z archive
 
 Each branch was downloaded directly from GitHub, extracted, then compressed back into a .7z archive to save space.
-
-For branches that ended up larger than 100MB (which is too large to be stored in a GitHub repository), files that are not required were removed.
-
